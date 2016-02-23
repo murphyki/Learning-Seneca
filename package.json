@@ -1,0 +1,22 @@
+{
+  "name": "learning-seneca",
+  "version": "1.0.0",
+  "description": "Example client/server application for playing with Seneca",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/murphyki/Learning-Seneca.git"
+  },
+  "author": "Kieran Murphy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/murphyki/Learning-Seneca/issues"
+  },
+  "homepage": "https://github.com/murphyki/Learning-Seneca#readme",
+  "dependencies": {
+    "seneca": "^1.2.0"
+  }
+}
